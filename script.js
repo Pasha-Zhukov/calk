@@ -23,3 +23,4 @@ function aqual() {
         document.querySelector('.input').innerHTML = eval(exp);
     }
 };
+// zzzzzzz/
